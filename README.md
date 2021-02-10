@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Alejo!</h1>
 
-<!--
-**alejoalvarez/alejoalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer. I love to develop new projects based on new technologies, always making sure of using the good practices while coding.
 
-Here are some ideas to get you started:
+Passionate about  **Microservices/SpringBoot/Reactive Programming/DevOps/AWS/kubernetes/Python/Always learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+**Some languages and Tools:**
+
+<code><img height="35" src="https://alejoalvarez.github.io/Images/java.webp"></code>
+<code><img height="35" src="https://alejoalvarez.github.io/Images/Kubernetes.png"></code>
+<code><img height="35" src="https://alejoalvarez.github.io/Images/docker.png"></code>
+<code><img height="35" src="https://alejoalvarez.github.io/Images/aws.png"></code>
+<code><img height="35" src="https://alejoalvarez.github.io/Images/iconos-Postgre.png"></code>
+<code><img height="35" src="https://alejoalvarez.github.io/Images/springBoot.png"></code>
+<code><img height="35" src="https://alejoalvarez.github.io/Images/python.png"></code>
+<code><img height="35" src="https://alejoalvarez.github.io/Images/mysql.jpg"></code>
+<code><img height="35" src="https://alejoalvarez.github.io/Images/intellij-idea.png"></code>
+<code><img height="35" src="https://alejoalvarez.github.io/Images/iconos-visual-studio-code.png"></code>
+<code><img height="35" src="https://alejoalvarez.github.io/Images/git.png"></code>
+
+
+
+
+
