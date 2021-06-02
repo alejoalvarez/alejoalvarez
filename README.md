@@ -8,6 +8,7 @@ Passionate about  **Microservices/SpringBoot/Reactive Programming/DevOps/AWS/kub
 
 **Some languages and Tools:**
 
+<code><img height="35" src="https://user-images.githubusercontent.com/13514156/120509450-221c8980-c38e-11eb-95d0-90408cff46d4.jpeg"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/13514156/120509286-fdc0ad00-c38d-11eb-8f50-f5d65b0ed643.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/13514156/120507668-a241ef80-c38c-11eb-89f7-7283e20ea3cc.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/13514156/120507726-ae2db180-c38c-11eb-8ce0-df32f6b1928e.png"></code>
